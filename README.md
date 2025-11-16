@@ -3,6 +3,7 @@
 Predicting daily and monthly shiftwise milk production using machine learning models to support dairy Company Savihaat OPC PVT LTD operations, optimize logistics, and reduce waste.
 
 📌 Project Overview
+
 This project aims to forecast milk volume based on historical data and relevant features such as temperature, humidity, feed intake, and cow health indicators. Accurate predictions help streamline supply chain decisions and improve farm efficiency.
 
 🚀 Features
@@ -29,6 +30,7 @@ This project aims to forecast milk volume based on historical data and relevant 
 - Milk Amount
   
 🛠️ Tech Stack
+
 | Tool                                | Purpose  
 | Python, Jupyter Notebook            | Core Programming language
 | Pandas, Numpy                       | Data Manipulation
@@ -44,6 +46,7 @@ This project aims to forecast milk volume based on historical data and relevant 
 - Visualizations: correlation matrix, outlier detection, feature importance, prediction vs actual plots, top ten  contributors milk volume with KPIs plot
   
 📂 Project Structure
+
 Lomesh-Kumar/
 │
 ├── January 2022_data.csv                # Raw and processed datasets
@@ -59,7 +62,8 @@ Lomesh-Kumar/
 🧪 How to Run
 - Clone the repository:
 git clone https://github.com/kumarlomesh86-ctrl/Lomesh-Kumar/blob/main/Milk%20Volume%20Prediction_Machine%20Learning.ipynb
-cd milk-volume-prediction
+
+-cd milk-volume-prediction
 
 - Install dependencies:
 pip install -r requirements.txt
@@ -71,12 +75,15 @@ streamlit run Sales_Data_Region.py
 
 
 📌 Future Improvements
+
 - Hyperparameter tuning
 - Model performance visualization
 - Deploy model via API
   
 🤝 Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request.
 
 📜 License
+
 No License yet.
