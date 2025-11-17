@@ -43,6 +43,7 @@ This project aims to forecast milk volume based on historical data and relevant 
 📈 Sample Results
 - R² Score: 0.99 (Random Forest)
 - MSE: 0.004
+- Next Month Milk Quantity Predicted: 1347.874
 - Visualizations: correlation matrix, outlier detection, feature importance, prediction vs actual plots, top ten  contributors milk volume with KPIs plot
   
 📂 Project Structure
