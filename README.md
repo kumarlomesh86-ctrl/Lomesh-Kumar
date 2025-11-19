@@ -54,11 +54,13 @@ This project aims to forecast milk volume based on historical data and relevant 
 
 Lomesh-Kumar/
 │
+├── FAT SNF_Rate Calculator              # R Scripts for Milk Rate Calculator
 ├── January 2022_data.csv                # Raw and processed datasets
 ├── Milk Collection Dashboard Code           # Streamlit dashboard code
 ├── Milk Volume Prediction_Machine Learning                 # Scripts for preprocessing, training, and evaluation
 ├── Milk Volume Prediction_Machine Learning.ipynb  # Scripts with plots for preprocessing, training, and evaluation
 ├── Milk_Collection_Dashboard.py   # Streamlit dashboard code
+├── Milk_Collection_Dashboard.py   # Power BI dashboard 
 ├── Sales_Data_Region.py # Streamlit dashboard code
 ├── README.md            # Project overview
 └── requirements.txt     # Python/Jupyter notebook and Rstudio dependencies
