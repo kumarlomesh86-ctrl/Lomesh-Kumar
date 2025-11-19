@@ -4,7 +4,7 @@ Predicting daily and monthly shiftwise milk production using machine learning mo
 
 📌 Project Overview
 
-This project aims to forecast milk volume based on historical data and relevant features such as temperature, humidity, feed intake, and cow health indicators. Accurate predictions help streamline supply chain decisions and improve farm efficiency.
+This project aims to forecast milk volume based on historical data and relevant features such as FAT and SNF. Accurate predictions help streamline supply chain decisions and improve farm efficiency.
 
 🚀 Features
 - Data preprocessing and feature engineering
@@ -12,6 +12,8 @@ This project aims to forecast milk volume based on historical data and relevant 
 - Model training and evaluation (Linear Regression, Random Forest, XGBoost, etc.)
 - Streamlit dashboard for interactive predictions
 - Region wise sales dashboard for interactive predictions
+- Power BI Dashboard for Summary, Farmer Insights, Forcasts visualization, Anomaly dection and business actions
+- R code web app for milk rate Calculator.
   
 🧠 Machine Learning Models Used
 - Linear Regression
@@ -32,12 +34,14 @@ This project aims to forecast milk volume based on historical data and relevant 
 🛠️ Tech Stack
 
 | Tool                                | Purpose  
-| Python, Jupyter Notebook            | Core Programming language
+| Python, Jupyter Notebook,            | Core Programming language
 | Pandas, Numpy                       | Data Manipulation
 | scikit-learn                        | ML Modeling
 |  Random Forest                      | Regression
 |  Matplotlib, seaborn, plotly        | Data Visualization
 | Streamlit                           | Web based dashboard
+| Power BI                            | Web based dashboard
+| R studio                            | Web based rate calulator
 
 
 📈 Sample Results
@@ -57,7 +61,7 @@ Lomesh-Kumar/
 ├── Milk_Collection_Dashboard.py   # Streamlit dashboard code
 ├── Sales_Data_Region.py # Streamlit dashboard code
 ├── README.md            # Project overview
-└── requirements.txt     # Python dependencies
+└── requirements.txt     # Python/Jupyter notebook and Rstudio dependencies
 
 
 🧪 How to Run
