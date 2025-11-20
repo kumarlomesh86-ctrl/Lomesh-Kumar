@@ -9,7 +9,7 @@ st.set_page_config(page_title="Milk Collection Dashboard", page_icon="🚚", lay
 logo_col, name_col = st.columns([1, 6])
 
 with logo_col:
-    st.sidebar.image("D:\\SELP\\SaviHaat\\Savihaat Logo.png", width=60)
+    st.sidebar.image("Savihaat Logo.png", width=60)
 
 with name_col:
     st.sidebar.markdown("<h2 style='margin-bottom:0;color:green;'>SaviHaat (OPC) Pvt. Ltd.</h2>", unsafe_allow_html=True)
